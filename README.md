@@ -2,6 +2,8 @@
 
 [![RoadRunner Scenario Parking Valet](https://res.cloudinary.com/marcomontalbano/image/upload/v1720923105/video_to_markdown/images/youtube--NYIECLVFOF0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NYIECLVFOF0 "RoadRunner Scenario Parking Valet")
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cuixing158/3D-HD-map-Sim&file=main.m)
+
 >本Repo基于Simulink/RoadRunner构建了一个HD map，高逼格近似3D地图，可用于Scenario各种工况下的仿真，包括但不限于车位检测，车道线检测，可行驶区域检测，交通标志检测等一体的高度融合环境。地图格式支持导出AutoCAD®, Filmbox, glTF™, OpenFlight, OpenSceneGraph, ASAM OpenDRIVE®, USD, Apollo, CARLA, Metamoto®, Unity®, Unreal®, GeoJSON, and VTD等各类格式。
 
 [RoadRunner®](https://www.mathworks.com/help/roadrunner/index.html)可根据`OpenStreetMap`、`Apollo HD Map`、`HERE HD Live Map`等导入地图数据或者直接从头开始逐一搭建，本项目所有3D目标均手工搭建，地图地面信息表达充分，特别是泊车位尽可能与实际表达一致，道路路面材质几乎与实际保持一致，通过自主/算法设计路线泊车，另外还可以根据速度profile+ego/non-ego vehicle自定制动态场景仿真+碰撞检测，高度逼近任意Scenario，适合各类感知算法corner case测试、深度学习groundTruth数据生成，也可以为下游的规控算法提供支持。
