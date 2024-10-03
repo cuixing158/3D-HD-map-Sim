@@ -3,6 +3,7 @@
 [![RoadRunner Scenario Parking Valet](https://res.cloudinary.com/marcomontalbano/image/upload/v1720923105/video_to_markdown/images/youtube--NYIECLVFOF0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NYIECLVFOF0 "RoadRunner Scenario Parking Valet")
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cuixing158/3D-HD-map-Sim&file=main.m)
+[![View 3D-HD-map-Sim on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ww2.mathworks.cn/matlabcentral/fileexchange/172975-3d-hd-map-sim)
 
 >本Repo基于Simulink/RoadRunner构建了一个HD map，高逼格近似3D地图，可用于Scenario各种工况下的仿真，包括但不限于车位检测，车道线检测，可行驶区域检测，交通标志检测等一体的高度融合环境。地图格式支持导出AutoCAD®, Filmbox, glTF™, OpenFlight, OpenSceneGraph, ASAM OpenDRIVE®, USD, Apollo, CARLA, Metamoto®, Unity®, Unreal®, GeoJSON, and VTD等各类格式。
 
